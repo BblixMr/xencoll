@@ -91,10 +91,10 @@ Xeno Executor is the **most secure**, **fastest**, and **completely free** Roblo
 ## 🔧 **How to Install & Use**  
 <details>  
   <summary>📥 <strong>Step-by-Step Guide</strong></summary>  
-  1. **Download Xeno Executor** using the button above.  
-  2. **Run Xeno Executor** and inject it into **Roblox**.  
-  3. **Load your favorite scripts** (supports all LuaU scripts).  
-  4. **Execute & enjoy!** 🚀  
+ - 1. **Download Xeno Executor** using the button above. 
+ - 2. **Run Xeno Executor** and inject it into **Roblox**.  
+ - 3. **Load your favorite scripts** (supports all LuaU scripts).  
+ - 4. **Execute & enjoy!** 🚀  
 </details>  
 
 ---  
