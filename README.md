@@ -11,38 +11,38 @@ Xeno Executor is the **most secure**, **fastest**, and **completely free** Roblo
 ### ✅ **Key Benefits**  
 <details>  
   <summary>🔒 <strong>100% Safe & Undetectable</strong></summary>  
-  - Advanced security updates to bypass anti-cheats.  
-  - No risk of bans or detection.  
+   Advanced security updates to bypass anti-cheats.  
+   No risk of bans or detection.  
 </details>  
 
 <details>  
   <summary>🔑 <strong>No Key System</strong></summary>  
-  - No annoying verifications.  
-  - Instant access with a single click.  
+   No annoying verifications.  
+   Instant access with a single click.  
 </details>  
 
 <details>  
   <summary>⚡ <strong>Optimized Performance</strong></summary>  
-  - Ultra-fast execution with minimal lag.  
-  - Designed for smooth and stable gameplay.  
+   Ultra-fast execution with minimal lag.  
+   Designed for smooth and stable gameplay.  
 </details>  
 
 <details>  
   <summary>🖥️ <strong>Works on Low-End PCs</strong></summary>  
-  - No high-end hardware required.  
-  - Runs efficiently on any system without slowing down Roblox.  
+   No high-end hardware required.  
+   Runs efficiently on any system without slowing down Roblox.  
 </details>  
 
 <details>  
   <summary>📝 <strong>Supports All Scripts</strong></summary>  
   - Works with LuaU and advanced scripts.  
-  - Universal compatibility with major script hubs.  
+   Universal compatibility with major script hubs.  
 </details>  
 
 <details>  
   <summary>🎮 <strong>Compatible with All Games</strong></summary>  
-  - Works flawlessly on **Blox Fruits, Pet Simulator X, Arsenal, Doors, and more!**  
-  - Regular updates for new game patches.  
+   Works flawlessly on **Blox Fruits, Pet Simulator X, Arsenal, Doors, and more!**  
+   Regular updates for new game patches.  
 </details>  
 
 ---  
@@ -50,27 +50,27 @@ Xeno Executor is the **most secure**, **fastest**, and **completely free** Roblo
 ## 📂 **Features Overview**  
 <details>  
   <summary>⚡ <strong>Powerful Execution Engine</strong></summary>  
-  - Fast & efficient script execution.  
-  - Supports LuaU & advanced scripts.  
-  - Stable & crash-free experience.  
+   Fast & efficient script execution.  
+   Supports LuaU & advanced scripts.  
+   Stable & crash-free experience.  
 </details>  
 
 <details>  
   <summary>🎯 <strong>ESP & Aimbot Tools</strong></summary>  
-  - Wallhack & enemy tracking.  
-  - Silent Aim & customizable aimbot.  
+   Wallhack & enemy tracking.  
+   Silent Aim & customizable aimbot.  
 </details>  
 
 <details>  
   <summary>🚀 <strong>Teleport & Speed Hacks</strong></summary>  
-  - Instant teleportation across maps.  
-  - Fly mode & super-speed options.  
+   Instant teleportation across maps.  
+   Fly mode & super-speed options.  
 </details>  
 
 <details>  
   <summary>💰 <strong>Auto Farming & Infinite Money</strong></summary>  
-  - Auto XP & money farming.  
-  - Instant collection of rare items.  
+   Auto XP & money farming.  
+   Instant collection of rare items.  
 </details>  
 
 ---  
@@ -91,10 +91,10 @@ Xeno Executor is the **most secure**, **fastest**, and **completely free** Roblo
 ## 🔧 **How to Install & Use**  
 <details>  
   <summary>📥 <strong>Step-by-Step Guide</strong></summary>  
- - 1. **Download Xeno Executor** using the button above. 
- - 2. **Run Xeno Executor** and inject it into **Roblox**.  
- - 3. **Load your favorite scripts** (supports all LuaU scripts).  
- - 4. **Execute & enjoy!** 🚀  
+  1. **Download Xeno Executor** using the button above. 
+  2. **Run Xeno Executor** and inject it into **Roblox**.  
+  3. **Load your favorite scripts** (supports all LuaU scripts).  
+  4. **Execute & enjoy!** 🚀  
 </details>  
 
 ---  
